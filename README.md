@@ -1,8 +1,6 @@
 # CodeGuide | 程序员编码指南
 
-> **作者：** 小傅哥，Java Developer，[:pencil2: 虫洞 · 科技栈，作者](https://bugstack.cn)，[:trophy: CSDN 博客专家](https://bugstack.blog.csdn.net)
-
-> 本代码库是作者小傅哥多年从事一线互联网```Java```开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
+> **作者：** 小傅哥，Java Developer，[:pencil2: 虫洞 · 科技栈，作者](https://bugstack.cn)，[:trophy: CSDN 博客专家](https://bugstack.blog.csdn.net)，[:point_right: Wiki阅读跳转(有目录)](https://github.com/fuzhengwei/CodeGuide/wiki)
 
 <br/>
 <div align="center">
@@ -38,7 +36,8 @@
 |   15  |   :walking:    |   [`Netty+JavaFx实战：仿桌面版微信聊天`](#walking-Netty仿桌面版微信聊天)   |   [NaiveChat](https://github.com/fuzhengwei/NaiveChat)    |
 |   16  |   :bookmark_tabs:    |   [`JDK1.8新特性41个案例讲解`](https://bugstack.cn/itstack-demo-any/2019/12/10/%E6%9C%89%E7%82%B9%E5%B9%B2%E8%B4%A7-Jdk1.8%E6%96%B0%E7%89%B9%E6%80%A7%E5%AE%9E%E6%88%98%E7%AF%87(41%E4%B8%AA%E6%A1%88%E4%BE%8B).html)   |   [itstack-demo-jdk8](https://github.com/fuzhengwei/itstack-demo-jdk8)    |
 |   17  |   :bike:    |   [`小傅哥的《字节码编程》专栏`](#bike-字节码编程专栏)   |   [itstack-demo-bytecode](https://github.com/fuzhengwei/itstack-demo-bytecode)    |
-| 18    |   :school_satchel: | [`实战设计模式`](#school_satchel-实战设计模式) | [itstack-demo-design](https://github.com/fuzhengwei/itstack-demo-design) |
+| 18    |   :school_satchel: | [`重学Java设计模式「真实场景实战」`](#school_satchel-实战设计模式) | [itstack-demo-design](https://github.com/fuzhengwei/itstack-demo-design) |
+| 19 | :bookmark_tabs: | [`面经手册`](#bookmark_tabs-面经手册) | [interview](https://github.com/fuzhengwei/interview) |
 |   -1  |   :ferris_wheel:    |   [`其他文章`](#ferris_wheel-其他文章)  |   [CodeGuide](https://github.com/fuzhengwei/CodeGuide/tree/master/src)    |
 
 **如果**，以上某些资源不能下载获取，可以添加作者：小傅哥，微信(fustack)
@@ -262,6 +261,12 @@
 - [`9. 重学 Java 设计模式：实战模版模式「模拟爬虫各类电商商品，生成营销推广海报场景」`](https://bugstack.cn/itstack-demo-design/2020/07/07/%E9%87%8D%E5%AD%A6-Java-%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-%E5%AE%9E%E6%88%98%E6%A8%A1%E6%9D%BF%E6%A8%A1%E5%BC%8F.html)
 - [`10. 重学 Java 设计模式：实战访问者模式「模拟家长与校长，对学生和老师的不同视角信息的访问场景」`](https://bugstack.cn/itstack-demo-design/2020/07/09/%E9%87%8D%E5%AD%A6-Java-%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-%E5%AE%9E%E6%88%98%E8%AE%BF%E9%97%AE%E8%80%85%E6%A8%A1%E5%BC%8F.html)
 
+## :bookmark_tabs: 面经手册
+
+- [`面经手册 · 开篇《面试官都问我啥》`](https://bugstack.cn/interview/2020/07/28/%E9%9D%A2%E7%BB%8F%E6%89%8B%E5%86%8C-%E5%BC%80%E7%AF%87-%E9%9D%A2%E8%AF%95%E5%AE%98%E9%83%BD%E9%97%AE%E6%88%91%E5%95%A5.html)
+- [`面经手册 · 第1篇《认知自己的技术栈盲区》`](https://bugstack.cn/interview/2020/07/30/%E9%9D%A2%E7%BB%8F%E6%89%8B%E5%86%8C-%E7%AC%AC1%E7%AF%87-%E8%AE%A4%E7%9F%A5%E8%87%AA%E5%B7%B1%E7%9A%84%E6%8A%80%E6%9C%AF%E6%A0%88%E7%9B%B2%E5%8C%BA.html)
+- [`面经手册 · 第2篇《数据结构，HashCode为什么使用31作为乘数？》`](https://bugstack.cn/interview/2020/08/04/%E9%9D%A2%E7%BB%8F%E6%89%8B%E5%86%8C-%E7%AC%AC2%E7%AF%87-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-HashCode%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%BF%E7%94%A831%E4%BD%9C%E4%B8%BA%E4%B9%98%E6%95%B0.html)
+- [`面经手册 · 第3篇《HashMap核心知识，扰动函数、负载因子、扩容链表拆分，深度学习》`](https://bugstack.cn/interview/2020/08/07/%E9%9D%A2%E7%BB%8F%E6%89%8B%E5%86%8C-%E7%AC%AC3%E7%AF%87-HashMap%E6%A0%B8%E5%BF%83%E7%9F%A5%E8%AF%86-%E6%89%B0%E5%8A%A8%E5%87%BD%E6%95%B0-%E8%B4%9F%E8%BD%BD%E5%9B%A0%E5%AD%90-%E6%89%A9%E5%AE%B9%E9%93%BE%E8%A1%A8%E6%8B%86%E5%88%86-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.html)
 ## :ferris_wheel: 其他文章
 
 - [`汉字不能编程？别闹了，只是看着有点豪横！容易被开除！`](https://bugstack.cn/itstack-demo-any/2020/05/05/%E6%B1%89%E5%AD%97%E4%B8%8D%E8%83%BD%E7%BC%96%E7%A8%8B-%E5%88%AB%E9%97%B9%E4%BA%86-%E5%8F%AA%E6%98%AF%E7%9C%8B%E7%9D%80%E6%9C%89%E7%82%B9%E8%B1%AA%E6%A8%AA-%E5%AE%B9%E6%98%93%E8%A2%AB%E5%BC%80%E9%99%A4.html) - [源码](https://github.com/fuzhengwei/CodeGuide/tree/master/src/itstack-demo-01)
@@ -313,10 +318,14 @@
 
 ---
 
+<img src="https://bugstack.cn/assets/images/tip.jpg?x-oss-process=style/may" width="180" height="180"/>
+
 **:gift_heart: 感谢大家对我资金的赞赏**
 
 | 时间       | 小伙伴     | 赞赏金额 |
 | ---------- | ---------- | -------- |
+| 2020-08-07 | Jin Se | 5.00元 |
+| 2020-07-25 | fun  | 10.00元 |
 | 2020-06-16 | 贾学兵     | 5.00元 |
 | 2020-06-11 | 刘洪泽     | 6.66元 |
 | 2020-06-05 | [时光之刃](https://github.com/996546860) |   5元   |
@@ -336,4 +345,7 @@
 | 2019-11-27 | Jasonzhou  | 1元      |
 | 2019-11-08 | 贺         | 1元      |
 | 2019-08-06 | 贺         | 1元      |
+
+
+
 
